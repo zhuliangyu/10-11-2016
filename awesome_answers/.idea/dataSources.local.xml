@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails awesome_answers: production" uuid="2c8e3bd4-c268-4f89-8c78-094fb4ed4bcf">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>macbook</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfebdffddfefdff9dfe5dfe7dfefdff5dfebdfe4dff9dffddfefdff8dff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails awesome_answers: test" uuid="ec3480a2-459f-4a50-a5ae-cb4708b19c79">
+      <database-info product="PostgreSQL" version="9.5.3" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+    </data-source>
+    <data-source name="Rails awesome_answers: development" uuid="1b6f1a64-225d-4638-a97f-143c92183dbd">
+      <database-info product="PostgreSQL" version="9.5.3" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <introspection-scope>awesome_answers_development_10_11_2016:public,pg_catalog,</introspection-scope>
+      <resolve-scope>awesome_answers_development_10_11_2016:public,</resolve-scope>
+    </data-source>
+  </component>
+</project>

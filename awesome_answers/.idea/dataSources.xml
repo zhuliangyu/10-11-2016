@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails awesome_answers: production" uuid="2c8e3bd4-c268-4f89-8c78-094fb4ed4bcf">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:awesome_answers_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails awesome_answers: test" uuid="ec3480a2-459f-4a50-a5ae-cb4708b19c79">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:awesome_answers_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails awesome_answers: development" uuid="1b6f1a64-225d-4638-a97f-143c92183dbd">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:awesome_answers_development_10_11_2016</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<h1>show</h1>
+<h1>I am showing <%= @id %></h1>
+
+<%= form_tag("/questions/#{@id}",method: :delete) do %>
+
+
+    <%= submit_tag(value="delete") %>
+
+<% end %>
